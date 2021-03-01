@@ -6,7 +6,7 @@ namespace TCPP_Obertynskyi_MainProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World ALFA MAIN!");
+            Console.WriteLine("Hello World ALFA and BETA!");
             //гілка альфа
         }
     }

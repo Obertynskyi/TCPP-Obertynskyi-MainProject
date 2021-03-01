@@ -1,0 +1,13 @@
+D:\TCPP-Obertynskyi-MainProject\TCPP-Obertynskyi-MainProject\TCPP-Obertynskyi-MainProject\bin\Debug\netcoreapp3.1\TCPP-Obertynskyi-MainProject.exe
+D:\TCPP-Obertynskyi-MainProject\TCPP-Obertynskyi-MainProject\TCPP-Obertynskyi-MainProject\bin\Debug\netcoreapp3.1\TCPP-Obertynskyi-MainProject.deps.json
+D:\TCPP-Obertynskyi-MainProject\TCPP-Obertynskyi-MainProject\TCPP-Obertynskyi-MainProject\bin\Debug\netcoreapp3.1\TCPP-Obertynskyi-MainProject.runtimeconfig.json
+D:\TCPP-Obertynskyi-MainProject\TCPP-Obertynskyi-MainProject\TCPP-Obertynskyi-MainProject\bin\Debug\netcoreapp3.1\TCPP-Obertynskyi-MainProject.runtimeconfig.dev.json
+D:\TCPP-Obertynskyi-MainProject\TCPP-Obertynskyi-MainProject\TCPP-Obertynskyi-MainProject\bin\Debug\netcoreapp3.1\TCPP-Obertynskyi-MainProject.dll
+D:\TCPP-Obertynskyi-MainProject\TCPP-Obertynskyi-MainProject\TCPP-Obertynskyi-MainProject\bin\Debug\netcoreapp3.1\TCPP-Obertynskyi-MainProject.pdb
+D:\TCPP-Obertynskyi-MainProject\TCPP-Obertynskyi-MainProject\TCPP-Obertynskyi-MainProject\obj\Debug\netcoreapp3.1\TCPP-Obertynskyi-MainProject.csprojAssemblyReference.cache
+D:\TCPP-Obertynskyi-MainProject\TCPP-Obertynskyi-MainProject\TCPP-Obertynskyi-MainProject\obj\Debug\netcoreapp3.1\TCPP-Obertynskyi-MainProject.AssemblyInfoInputs.cache
+D:\TCPP-Obertynskyi-MainProject\TCPP-Obertynskyi-MainProject\TCPP-Obertynskyi-MainProject\obj\Debug\netcoreapp3.1\TCPP-Obertynskyi-MainProject.AssemblyInfo.cs
+D:\TCPP-Obertynskyi-MainProject\TCPP-Obertynskyi-MainProject\TCPP-Obertynskyi-MainProject\obj\Debug\netcoreapp3.1\TCPP-Obertynskyi-MainProject.csproj.CoreCompileInputs.cache
+D:\TCPP-Obertynskyi-MainProject\TCPP-Obertynskyi-MainProject\TCPP-Obertynskyi-MainProject\obj\Debug\netcoreapp3.1\TCPP-Obertynskyi-MainProject.dll
+D:\TCPP-Obertynskyi-MainProject\TCPP-Obertynskyi-MainProject\TCPP-Obertynskyi-MainProject\obj\Debug\netcoreapp3.1\TCPP-Obertynskyi-MainProject.pdb
+D:\TCPP-Obertynskyi-MainProject\TCPP-Obertynskyi-MainProject\TCPP-Obertynskyi-MainProject\obj\Debug\netcoreapp3.1\TCPP-Obertynskyi-MainProject.genruntimeconfig.cache
